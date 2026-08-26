@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "minimumVersion": "0.2.8",
+  "minimumVersion": "0.2.9",
   "blockedVersions": [],
   "message": ""
 }
