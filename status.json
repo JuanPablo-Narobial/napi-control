@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "minimumVersion": "0.2.9",
-  "blockedVersions": [],
-  "message": ""
+  "blockedVersions": ["0.2.9"],
+  "message": "La versión 0.2.9 de NAPI Explorer está deshabilitada. Instala una versión posterior."
 }
