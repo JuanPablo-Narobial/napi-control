@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "minimumVersion": "0.2.9",
-  "blockedVersions": ["0.2.12", "0.2.14"],
-  "message": "Esta versión está deshabilitada. Descarga e instala NAPI Explorer 0.2.15: https://drive.google.com/drive/folders/1SOhE5_58G6ICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
+  "minimumVersion": "0.2.18",
+  "blockedVersions": [],
+  "message": "Esta versión está deshabilitada. Descarga e instala NAPI Explorer 0.2.18: https://drive.google.com/drive/folders/1SOhE5_58G6ICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
 }
