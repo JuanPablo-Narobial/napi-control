@@ -2,5 +2,5 @@
   "enabled": true,
   "minimumVersion": "0.2.20",
   "blockedVersions": ["0.2.18"],
-  "message": "Actualiza NAPI Explorer a la versión 0.2.20, que incorpora soporte para operaciones PUT: https://drive.google.com/drive/folders/1SOhE5_58GICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
+  "message": "Actualiza NAPI Explorer a la versión 0.2.20, que incorpora soporte para operaciones PUT: https://drive.google.com/drive/folders/1SOhE5_58G6ICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
 }
