@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "minimumVersion": "0.2.21",
+  "minimumVersion": "0.2.22",
   "blockedVersions": [],
-  "message": "Actualiza NAPI Explorer a la versión 0.2.21 para usar la nueva clave de conexión: https://drive.google.com/drive/folders/1SOhE5_58G6ICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
+  "message": "Actualiza NAPI Explorer a la versión 0.2.22 para usar la nueva clave de conexión: https://drive.google.com/drive/folders/1SOhE5_58G6ICgjHchNt-fGUxWZ75mZJC?usp=drive_link"
 }
